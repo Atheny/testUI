@@ -3,7 +3,7 @@
 
 ### 示例1
 
-<m-card imgSrc="/java.png" summary="Java系统化精讲  重塑你的编程思想 打造坚实的开发基础" />
+<m-card imgSrc="/testUI/java.png" summary="Java系统化精讲  重塑你的编程思想 打造坚实的开发基础" />
 
 ### 代码1
 ```html
