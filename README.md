@@ -21,3 +21,9 @@ import 'test-ui-atheny/dist/css/card.css';
 import { Card } from 'test-ui-atheny';
 Vue.use(Card);
 ```
+
+### GitHub代码地址
+https://github.com/Atheny/testUI/tree/master
+
+### 文档地址
+https://atheny.github.io/testUI/
