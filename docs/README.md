@@ -1,14 +1,15 @@
-# test-ui-atheny
+# 快速开始
 
-### 快速开始
-
-#### 1.安装组件库
+#### 安装组件库
 
 ```bash
 npm i test-ui-atheny
 ```
 
-#### 2.引用组件库
+
+#### 使用组件库
+> 在main.js中引用组件库
+
 ```javascript
 // 全部引用
 import 'test-ui-atheny/dist/css/index.css';
