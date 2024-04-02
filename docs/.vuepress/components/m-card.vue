@@ -42,5 +42,5 @@ export default {
 
 
 <style lang="scss">
-@import './card.scss';
+@import './card';
 </style>
